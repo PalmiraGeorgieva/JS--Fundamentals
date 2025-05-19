@@ -1,2 +1,2 @@
 Fundamentals Programming with JavaScript.
-Topics: Basic Syntacs, Data Types, Arrays, Functions.
+Topics: Basic Syntax, Data Types, Arrays, Functions.
