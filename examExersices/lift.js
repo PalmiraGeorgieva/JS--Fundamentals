@@ -29,14 +29,7 @@ function lift(arr) {
 
 
 
-    /*• If (freePlace < 4 && countPeople === 0):
-    "The lift has empty spots!
-     {wagons separated by ' '}"
-    • If (countPeople > 0 && freePlace === 4;)
-    "There isn't enough space! {people} people in a queue!
-      {wagons separated by ' '}"
-    • If (countPeople === 0 && freePlace === 4),
-     you should print only the wagons separated by " ". */
+  
 }
 lift([
  "15",
